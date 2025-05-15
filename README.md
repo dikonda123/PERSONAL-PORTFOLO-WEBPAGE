@@ -35,5 +35,5 @@ The entire website is styled with a modern, minimalist aesthetic, with readable 
 
 Conclusion
 This HTML and CSS-based developer portfolio website serves as an essential personal branding tool. It allows developers to present their skills, projects, and contact details in a clear and professional manner. The site is easy to build, fast to load, and fully responsive. It’s ideal for beginners who want to establish an online presence without the complexity of frameworks or backend code. Future enhancements could include adding JavaScript for interactivity, integrating a contact form, or switching to a framework like React for dynamic components. Nonetheless, this basic portfolio is a solid foundation for showcasing a developer’s talents and making a strong impression online.
-
+OUTPUT:![Image](https://github.com/user-attachments/assets/8a242232-036f-4cba-af4b-219db2e0b48b)
 
